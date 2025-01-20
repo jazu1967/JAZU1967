@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on Tata Consultancy Services
 - 🌱 I’m currently learning GitHub/ DevOps Engineer / Test Architect
 - 💬 Ask me about Testing Software
-- 😄 Pronouns: He/ Him
+- 😄 Pronouns: he / his / hims
